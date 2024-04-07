@@ -107,8 +107,8 @@ strong { font-family: "C-Medium" !important; }
 
 body {
   background: #8e9eab;
-  background: -webkit-linear-gradient(to top, #000, #434343);
-  background: linear-gradient(to top, #000, #434343);
+  background: -webkit-linear-gradient(to top, #000, #010522);
+  background: linear-gradient(to top, #000, #010522);
   font-family: "C-Regular" !important;
   display: flex !important;
   justify-content: center !important;
